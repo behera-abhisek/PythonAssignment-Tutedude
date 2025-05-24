@@ -1,0 +1,8 @@
+first_num = input("Enter the First Number: ")
+second_num = input("Enter the Second Number: ")
+first_num = int(first_num)
+second_num = int(second_num)
+add = print("Addition: ", first_num + second_num)
+sub = print("Substraction: ", first_num - second_num)
+mul = print("Multiplication: ", first_num * second_num)
+div = print("Division: ", first_num / second_num)
