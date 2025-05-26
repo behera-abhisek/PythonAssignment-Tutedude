@@ -1,3 +1,0 @@
-first_name = input("Enter your First Name: ")
-last_name = input("Enter your Last Name: ")
-full_name = print("Hello,", first_name +' '+ last_name+'!','Welcome to the Python Course')
